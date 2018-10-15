@@ -1,3 +1,4 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
 SMA6201_Control_Panel_I2C_Bridge_Test_Version.zip !text !filter !merge !diff
 SMA6201_Control_Panel_V104.zip !text !filter !merge !diff
 SMA6201_Control_Panel_V106.zip !text !filter !merge !diff
